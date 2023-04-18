@@ -1,0 +1,1 @@
+java -cp D:\OneDrive\Personal\JavaSeleniumGitRepo\Git\SeleniumGitJenkinsProject\bin;lib/* org.testng.TestNG testng.xml
